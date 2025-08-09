@@ -9,7 +9,7 @@ PCB with Electroless Nickel / Immersion Gold is better
 
 ## Credit
 
-MSXLegend & Popolon33 from WWW.MSXVILLAGE.FR
+MSXLegend & Popolon33 from www.msxvillage.fr
 > Thanks to Popolon33 for the name of the adaptator UCNM-01  (M for mini)
 
 ## IMPORTANT
